@@ -1,0 +1,3 @@
+test using cmd building file txt
+writing mode enter a/A
+order mode enter Esc.
